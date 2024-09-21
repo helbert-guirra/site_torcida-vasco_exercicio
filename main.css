@@ -9,8 +9,9 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: "Bungee", sans-serif;
+    font-family: "Protest Guerrilla", sans-serif;
     font-weight: normal;
+    font-style: normal;
 }
 
 body,input, textarea {
